@@ -1,0 +1,4 @@
+MyFirstRepo
+===========
+
+Scala Project
